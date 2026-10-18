@@ -12,7 +12,7 @@ Arazzo is an [OpenAPI Initiative](https://www.openapis.org/) specification for d
 
 ## What we build
 
-- **[php-arazzo](https://github.com/PHP-Arazzo/php-arazzo)**: the main package.
+- **[php-arazzo](https://github.com/Mohammed-Alama/php-arazzo)**: the main package.
   - **Parse and validate** Arazzo documents.
   - **Run workflows** with a built-in executor, not just a parser.
   - **Evaluate runtime expressions and criteria** against the spec's grammar.
@@ -64,5 +64,13 @@ Each step names an operation, states what success looks like, and passes its out
 - [Brand guidelines](https://github.com/PHP-Arazzo/.github/blob/main/BRANDING.md)
 
 ---
+
+## Who builds it
+
+php-arazzo is built and maintained by **[Mohammed Alama](https://alama.dev)**, a senior backend engineer and software architect based in Cairo, Egypt.
+
+Mohammed has spent 7+ years building PHP and Laravel systems, mostly in enterprise e-commerce, queued API integrations and large content platforms. Those projects are where the idea for php-arazzo came from. Multi-step API workflows are everywhere in that kind of work, and each team ends up describing and testing them its own way.
+
+The goal here is to make complex systems easier to understand. A workflow described in a standard format can be read, validated and run by anyone, not just the person who wrote it.
 
 <sub>php-arazzo is an independent implementation of the Arazzo Specification and is not affiliated with the OpenAPI Initiative.</sub>
