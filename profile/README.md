@@ -1,12 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHP-Arazzo/.github/main/brand/php-arazzo-avatar-dark.svg">
+    <img alt="php-arazzo" src="https://raw.githubusercontent.com/PHP-Arazzo/.github/main/brand/php-arazzo-avatar-light.svg" width="120">
+  </picture>
+</p>
 
-<!--
+<h1 align="center">php-arazzo</h1>
 
-**Here are some ideas to get you started:**
+<p align="center">Arazzo workflow descriptions for PHP.</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we build
+
+- **[php-arazzo](https://github.com/PHP-Arazzo/php-arazzo)** — a PHP implementation of the [Arazzo Specification](https://spec.openapis.org/arazzo/latest.html): parse, validate and run API workflows.
+
+## Contributing
+
+Questions, ideas and pull requests are welcome. Open an issue in the relevant repository to start a conversation.
+
+---
+
+php-arazzo is an independent implementation of the Arazzo Specification.
